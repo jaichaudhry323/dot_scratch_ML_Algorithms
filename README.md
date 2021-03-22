@@ -1,1 +1,1 @@
-# dot_scratch_ML_Algorithms
+# Dot_scratch_ML_Algorithms
